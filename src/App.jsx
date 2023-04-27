@@ -8,8 +8,8 @@ import NoteState from './Context/notes/NoteState'
 import Notes from './components/Notes';
 import AlertComponent from './components/Alert'
 function App() {
-  
-  return (
+
+  return (  
     <NoteState>
     <BrowserRouter>
       <NavbarComponent/>

@@ -42,6 +42,9 @@ i {
 }
 
 .btn-2:hover .btn-icon2 {
-    color: #ffffff;
+    color: white;
 }
 
+.modal-backdrop {
+    background-color: rgba(0, 0, 0, 0.171); /* set the background color with an alpha value for opacity */
+  }
